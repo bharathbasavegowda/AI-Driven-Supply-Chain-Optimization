@@ -17,7 +17,6 @@ I developed a four-stage roadmap for AI integration in healthcare logistics:
 4. **Monitor:** Real-time dashboards for stock levels and expiry dates.
 
 ## Visual Documentation
-![Infographic](infographic_AI_in_Health_care_S.PNG)
 *Created by: Bharath Basavegowda*
 
 ## Business Logic Tools
