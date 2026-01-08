@@ -1,4 +1,4 @@
-# Smarter, Greener Hospitals: AI in Supply Chain & Inventory Management 🏥♻️
+# Smarter, Greener Hospitals: AI in Supply Chain & Inventory Management
 
 ## Project Overview
 This project explores the intersection of **Artificial Intelligence** and **Supply Chain Operations** within the healthcare sector. As an MS Business Analytics student, I analyzed how AI-driven predictive modeling can transform hospital warehouses into high-efficiency, sustainable hubs.
